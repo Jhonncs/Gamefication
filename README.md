@@ -10,5 +10,8 @@
   - www.w3schools.com
   - www.html5up.net
   - www.startbootstrap.com/template-overviews/sb-admin-2/
-# Fundamentos básicos do Github
-  - www.udemy.com/git-e-github-para-iniciantes/
+# Cursos
+* GitHub:
+  - www.udemy.com/git-e-github-para-iniciantes/  
+* Programação:
+  - http://www.cursoemvideo.com/
