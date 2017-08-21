@@ -1,0 +1,103 @@
+varios objetos nas linguagens
+
+----------------------------------------
+Entidade -> o que é uma entidade?
+Tudo aquilo que pode ser considerado único, que não é repetivel.
+Coisas que possuem identificação (por isso possuem ID)
+Exemplos de entidade
+Ser humano pode ser considerado uma entidade (um ser humano
+nunca é igual a outro).
+
+Uma conta bancaria pode ser considerado uma entidade, uma conta
+nunca é igual a outra conta.
+
+Entidade é o que salvamos no banco.
+entidade é o que buscamos do banco.
+Toda vida que formos para o banco de dados estaremos usando provalvemente entidades
+para salvar ou buscar.
+-----------------------------------------
+
+Objeto de valor -> o objeto de valor é tudo aquilo que pode ser repetivel.
+Se a entidade é  o verbo o objeto de valor é o substantivo.
+Exemplo de objetos de valor.
+
+Suponha que eu tenha 2 tomadas, e quero colocar numa sala que possue 2 
+sockets de tomada, não importa a ordem que eu coloque elas, se eu trocar 
+não importa, se eu trocar por uma terceira tomada, menos ainda.
+Todas as tomadas são iguais.
+
+O objeto de valor não damos bola para sua identidade, se for repetido
+se for só unico, e etc ele continua sendo só um valor.
+
+geralmente objetos de valores são comparados pelo seu valor e não pela sua identidade
+isto é o que diferencia objetos de valor e entidades no sistema.
+
+Por exemplo
+
+1 pessoa é uma entidade 
+2 pessoas são duas entidades distintas
+
+1 endereço associado a uma pessoa é 1 objeto de valor
+2 endereço associados a 2 pessoas são 2 objeto de valor
+
+se formos comparar as pessoas comparamos pela sua identidade (ID) ou algo que a
+torne única.
+
+Já o endereço neste caso comparamos pelo seu valor (CEP ou nome da rua) tudo depende
+de como nosso sistema trata a informação de logradouro mas pouco importa sua identidade
+e apenas se um endereço é igual ao outro
+
+
+sobre entidade e objeto de valor ler:
+http://www.jrobertoaraujo.com/2016/11/14/entidades-vs-objeto-de-valor/
+e procurar mais referencias esta relacionado com o tema (DDD - do).
+
+------------------------------------------------------------
+
+Repositório - é praticamente onde voce guarda e busca sua entidade,
+ é normal possui 1 repositório para cada entidade no sistema.
+
+Se eu possuo uma entidade chamada Usuario
+eu terei um repositorio chamado 
+UsuarioRepository 
+e este repositorio pode fazer as seguintes coisas para mim como
+
+- BuscarUsuario(string idDoUsuario)
+- InserirUsuario(Usuario usuario)
+- BuscarTodosOsUsuario()
+- RemoveUsuario(string id);
+- AtualizarUsuario();
+- BuscaUsuarioComMaiorIdade();
+
+------------------------------------------------------------
+
+Servicos!!!1
+Servico seriam a conjugação dos verbos.
+Tudo aquilo que é um processo executado será considerado um serviço
+por exemplo um posto de gasolina pode ser considerado um serviço
+ele possui as seguintes funcionalidades
+
+Serviço de Posto de gasolina
+-> abastecer(Carro);
+-> CalibraPneu(Carro);
+-> LavarOCarro(Carro);
+
+Tudo aquilo que oferece um serviço vai ser considerado um serviço, pense
+em objetos de serviço como aquilo que resolve sua lógica de negócio.
+Ou seja a função dos serviço é manipular objetos, conversar com repositorios e executar
+o que o seu sistema promete.
+
+Pense no serviço como um aplicativo, só que escrito em código.
+é por ele que vai roda todas as regras de negocio.
+
+-----------------------------------------------------------
+MONGODB
+
+Nao existe tabela em mongo
+nao existe coluna em mongo
+mongo salva objetos e busca objetos
+
+Mongo possui um database ou mais
+cada database possui uma coleção ou mais
+e cada coleção possui nenhum ou inumeros objetos
+-----------------------------------------------------------
