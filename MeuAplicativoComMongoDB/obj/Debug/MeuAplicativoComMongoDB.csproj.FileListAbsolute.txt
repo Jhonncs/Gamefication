@@ -1,0 +1,20 @@
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MeuAplicativoComMongoDB.exe.config
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MeuAplicativoComMongoDB.exe
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MeuAplicativoComMongoDB.pdb
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\Gamification.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Helper.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Driver.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Bson.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\Gamification.pdb
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Helper.pdb
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Driver.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Bson.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\obj\Debug\MeuAplicativoComMongoDB.csprojResolveAssemblyReference.cache
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\obj\Debug\MeuAplicativoComMongoDB.exe
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\obj\Debug\MeuAplicativoComMongoDB.pdb
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\bin\Debug\MeuAplicativoComMongoDB.exe.config
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\obj\Debug\MeuAplicativoComMongoDB.exe
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MeuAplicativoComMongoDB\obj\Debug\MeuAplicativoComMongoDB.pdb
