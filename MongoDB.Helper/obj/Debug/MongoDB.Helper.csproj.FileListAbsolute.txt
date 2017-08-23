@@ -1,0 +1,24 @@
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Helper.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Helper.pdb
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Bson.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Bson.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.csprojResolveAssemblyReference.cache
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.pdb
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Helper.dll
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Helper.pdb
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Bson.dll
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.dll
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Bson.xml
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.xml
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.csprojResolveAssemblyReference.cache
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.dll
+C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.pdb
