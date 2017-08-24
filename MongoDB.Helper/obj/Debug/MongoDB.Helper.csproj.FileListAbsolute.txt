@@ -22,3 +22,14 @@ C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\bin\Debug\MongoDB.Dr
 C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.csprojResolveAssemblyReference.cache
 C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.dll
 C:\Users\moc\Desktop\MeuAplicativoComMongoDB\MongoDB.Helper\obj\Debug\MongoDB.Helper.pdb
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\obj\Debug\MongoDB.Helper.dll
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\obj\Debug\MongoDB.Helper.pdb
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Helper.dll
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Helper.pdb
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Bson.dll
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Driver.Core.dll
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Driver.dll
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Bson.xml
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Driver.xml
+C:\Users\moc\Desktop\Gamefication-Main-Project\MongoDB.Helper\bin\MongoDB.Driver.Core.xml
