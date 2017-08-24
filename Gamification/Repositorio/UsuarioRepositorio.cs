@@ -4,8 +4,9 @@ using System.Linq;
 using MongoDB.Bson;
 using MongoDB.Driver;
 using MongoDB.Helper.Interfaces;
-using Gamefication.Entidades;
-namespace Gamification.Repositorio
+using Gamification.DAL.Entidades;
+
+namespace Gamification.DAL.Repositorio
 {
 	public class UsuarioRepositorio : RepositorioBase<Usuario>
 	{

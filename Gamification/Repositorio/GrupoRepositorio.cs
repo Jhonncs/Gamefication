@@ -1,15 +1,21 @@
-﻿using Gamification.Entidades;
+﻿using System.Collections.Generic;
 using MongoDB.Helper.Repositorio;
-using System;
-using System.Collections.Generic;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using MongoDB.Bson;
+using MongoDB.Driver;
+using MongoDB.Helper.Interfaces;
+using Gamification.DAL.Entidades;
+using Gamification.DAL;
 
-namespace Gamification.Repositorio
+namespace Gamification.DAL.Repositorio
 {
     public class GrupoRepositorio : RepositorioBase<Grupo>
     {
-        
+        public List<Usuario> GetIntegrantes(string codigo)
+        {
+            Grupo grupo = GetById(codigo);
+            return grupo.Integrantes;
+        }
+
     }
 }

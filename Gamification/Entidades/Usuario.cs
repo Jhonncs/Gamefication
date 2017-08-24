@@ -3,13 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Gamification.ObjetoDeValor;
+using Gamification.DAL.Entidades;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 using MongoDB.Helper.Interfaces;
-using Gamification.Entidades;
+using Gamification.DAL.ObjetoValor;
 
-namespace Gamefication.Entidades
+namespace Gamification.DAL.Entidades
 {
 	public class Usuario : IEntity
 	{		

@@ -13,3 +13,12 @@ c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMo
 C:\Users\moc\Desktop\MeuAplicativoComMongoDB\Gamification\obj\Debug\Gamification.csprojResolveAssemblyReference.cache
 C:\Users\moc\Desktop\MeuAplicativoComMongoDB\Gamification\obj\Debug\Gamification.dll
 C:\Users\moc\Desktop\MeuAplicativoComMongoDB\Gamification\obj\Debug\Gamification.pdb
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\bin\Debug\Gamification.dll
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\bin\Debug\Gamification.pdb
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\bin\Debug\MongoDB.Bson.dll
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\bin\Debug\MongoDB.Helper.dll
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\bin\Debug\MongoDB.Helper.pdb
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\bin\Debug\MongoDB.Bson.xml
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\obj\Debug\Gamification.csprojResolveAssemblyReference.cache
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\obj\Debug\Gamification.dll
+C:\Users\MOC\Desktop\Gamefication-Main-Project\Gamification\obj\Debug\Gamification.pdb
