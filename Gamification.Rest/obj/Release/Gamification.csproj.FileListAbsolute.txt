@@ -1,0 +1,14 @@
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\Gamification.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\Gamification.pdb
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Bson.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Driver.Core.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Driver.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Helper.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Helper.pdb
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Bson.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Driver.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\bin\Release\MongoDB.Driver.Core.xml
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\obj\Release\Gamification.csprojResolveAssemblyReference.cache
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\obj\Release\Gamification.dll
+c:\users\leticia.flores\documents\visual studio 2017\Projects\MeuAplicativoComMongoDB\Gamification\obj\Release\Gamification.pdb
